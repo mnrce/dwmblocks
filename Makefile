@@ -1,4 +1,4 @@
-PREFIX ?= /usr/local
+PREFIX ?= ~/.local
 CC ?= cc
 
 output: dwmblocks.c blocks.def.h blocks.h
